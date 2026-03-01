@@ -25,13 +25,15 @@ function Layout({ children }) {
             
             <nav className="flex items-center gap-6">
               <a 
-                href="#" 
+                href="https://github.com/das-kushal/API-Guardian/blob/main/README.md" 
+                target="_blank"
+                rel="noreferrer"
                 className="text-sm font-medium text-slate-400 hover:text-white transition-colors"
               >
                 Documentation
               </a>
               <a 
-                href="https://github.com/das-kushal/API-Guradian" 
+                href="https://github.com/das-kushal/API-Guardian" 
                 target="_blank" 
                 rel="noreferrer"
                 className="p-2 text-slate-400 hover:text-white hover:bg-white/5 rounded-full transition-all"
